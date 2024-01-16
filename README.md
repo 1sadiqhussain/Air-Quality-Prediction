@@ -36,6 +36,7 @@ The core libraries used are Pandas, Scikit-Learn, and bnlearn.
 
 # Usage
 The main dependencies are:
+
 Pandas
 
 Scikit-Learn
